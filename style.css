@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(236, 128, 209);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.header_div{
+    background-color: rgb(107, 227, 248);
+    color:rgb(108, 6, 192);
+font-size: 25px;
+}
+
+.header_div p{
+    font-family:'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', 'sans-serif';
+    font-size: 18px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    color: rgb(161, 26, 161);
+}
+
+.main_div button{
+    margin-top: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    width:150px;
+    letter-spacing: 1px;
+}
+
+.copy-right-footer{
+    position: fixed;
+    text-align: center;
+    line-height: 3;
+    background-color: rgb(107, 227, 248);
+    bottom: 0px;
+    color:rgb(16, 104, 219);
+    width: 100%;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-shadow: 5px 5px 5px rgb(182, 81, 223);
+    font-weight: bold;
+}
